@@ -14,7 +14,6 @@ int main() {
     float Percentual_4 = 7;
     float Percentual_5 = 4;
 
-    // Definir precisão padrão para o cout (novo salário e reajuste com 2 casas decimais)
     cout << fixed << setprecision(2);
 
     if (A >= 0 && A <= 400.00) {
