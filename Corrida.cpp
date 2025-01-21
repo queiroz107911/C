@@ -1,3 +1,15 @@
+/* Escreva um programa que, dados as distâncias até a linha de chegada, as velocidades e os números das duas charretes que lideram a corrida
+determina quem seria o vencedor da corrida (você pode supor que as charretes não cruzam a linha de chegada simultaneamente).
+
+Entrada
+A entrada consiste de duas linhas; cada linha descreve uma das charretes que lidera a corrida. 
+A descrição de uma charrete consiste de três inteiros N (1 ≤ N ≤ 99), D (0 < D ≤ 1000) e V (0 < V ≤ 50) indicando, respectivamente
+o número da charrete, a sua distância à linha de chegada em metros, e a sua velocidade, em quilômetros por hora. 
+Os números das duas charretes são distintos.
+
+Saída
+Imprima uma única linha, contendo um único número inteiro, indicando o número da charrete que seria vencedora, conforme descrito acima*/
+
 #include <iostream>
 using namespace std;
 
