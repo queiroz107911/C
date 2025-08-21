@@ -1,4 +1,4 @@
-C++ e Faculdade
+# C++ e Faculdade
 
 Neste repositório estão os exercícios realizados durante algumas matérias da minha faculdade, CPE e AED;
 
